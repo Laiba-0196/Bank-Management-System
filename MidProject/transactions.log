@@ -1,0 +1,13 @@
+Transaction [transactionId=1, amount=700.0, transactionType=DEPOSIT, date=2024-11-15 19:34:13, accountNumber=ACCT1731681213700]
+Transaction [transactionId=2, amount=100.0, transactionType=WITHDRAWAL, date=2024-11-15 19:34:22, accountNumber=ACCT1731681213700]
+Transaction [transactionId=3, amount=400.0, transactionType=DEPOSIT, date=2024-11-15 19:45:04, accountNumber=ACCT1731681213700]
+Transaction [transactionId=4, amount=10.0, transactionType=WITHDRAWAL, date=2024-11-15 19:45:12, accountNumber=ACCT1731681213700]
+Transaction [transactionId=5, amount=500.0, transactionType=DEPOSIT, date=2024-11-15 19:48:21, accountNumber=ACCT1731681213700]
+Transaction [transactionId=6, amount=40.0, transactionType=DEPOSIT, date=2024-11-15 19:48:30, accountNumber=ACCT1731681213700]
+Transaction [transactionId=7, amount=500.0, transactionType=DEPOSIT, date=2024-11-16 13:44:16, accountNumber=ACCT1731681213700]
+Transaction [transactionId=8, amount=5000.0, transactionType=DEPOSIT, date=2024-11-16 13:55:09, accountNumber=ACCT1731681213700]2024-11-17 14:09:53 - Account: ACCT1731681213700, Type: DEPOSIT, Amount: $30000.00
+2024-11-17 14:10:00 - Account: ACCT1731681213700, Type: WITHDRAWAL, Amount: $200.00
+2024-11-17 14:28:19 - Account: ACCT1731835646470, Type: WITHDRAWAL, Amount: $300.00
+2024-11-17 14:29:42 - Account: ACCT1731835646470, Type: DEPOSIT, Amount: $200.00
+2024-11-17 14:29:56 - Account: ACCT1731835646470, Type: WITHDRAWAL, Amount: $30000.00
+2024-11-18 08:48:22 - Account: ACCT1731901233560, Type: DEPOSIT, Amount: $3000.00
